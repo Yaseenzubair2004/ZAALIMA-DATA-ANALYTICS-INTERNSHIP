@@ -1,0 +1,31 @@
+📑 Report Description
+
+This Sales Dashboard Report presents a comprehensive analysis of company sales performance using Power BI. The report highlights key business metrics, growth patterns, and market insights to support data-driven decision-making.
+
+🔹 Contents of the Report
+
+Executive Summary – Overview of total sales ($10.03M), total quantity sold (99.07K), average sales per transaction ($32.68K), and overall sales growth (0.22%).
+
+Sales by Product Line – Comparative analysis of product categories, identifying Classic Cars as the top contributor ($3.9M, 39%).
+
+Sales by Country – Market performance breakdown showing USA ($3.6M) and Spain ($1.2M) as leading regions.
+
+Growth Analysis – Insights into sales growth by product lines and countries, with Switzerland (0.63%) and Ships (0.26%) leading growth trends.
+
+Key Insights & Recommendations – Actionable strategies for improving sales, targeting high-growth areas, and monitoring underperforming segments.
+
+🔹 Purpose
+
+To provide leadership with clear visibility of sales trends.
+
+To identify high-performing products and regions.
+
+To support strategic planning and marketing initiatives.
+
+🔹 Tools Used
+
+Power BI for interactive dashboard design and visualization.
+
+Excel for preprocessing and data preparation.
+
+PowerPoint (PPTX) for executive-level presentation of insights.
